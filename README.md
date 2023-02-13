@@ -1,4 +1,4 @@
-# Coy2022_NatureComm
+# Coy2023_ResearchSquare-SciRep
 
 # This repository contains:
 # raw confocal images generated to quantify HcRNAV-infected virocells based on the presence of dsRNA
